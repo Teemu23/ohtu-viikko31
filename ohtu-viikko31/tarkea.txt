@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-vai onko? tosi tarkea
-=======
-tosi tarkea sika t‰rke‰‰‰
->>>>>>> toka
-
+vai onko? tosi tarkea sika t‰rke‰‰‰
 hienoa
