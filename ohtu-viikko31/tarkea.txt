@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vai onko? tosi tarkea
+=======
+tosi tarkea sika tärkeäää
+>>>>>>> toka
